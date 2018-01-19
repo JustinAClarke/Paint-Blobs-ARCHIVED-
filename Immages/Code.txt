@@ -1,0 +1,62 @@
+Private Sub imgwhite_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a White paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgblue_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a blue paint blob", vbOKOnly)
+End Sub
+
+Private Sub imggreen_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a green paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgpink_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a pink paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgred_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a red paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgblack_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a black paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgyellow_Click()
+responce = MsgBox("Sorry but that is not a ..... paint blob, that is a yellow paint blob", vbOKOnly)
+End Sub
+
+
+
+
+
+
+
+
+Private Sub imgwhite_Click()
+responce = MsgBox("Well done that is a White paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgblue_Click()
+responce = MsgBox("Well done that is a blue paint blob", vbOKOnly)
+End Sub
+
+Private Sub imggreen_Click()
+responce = MsgBox("Well done that is a green paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgpink_Click()
+responce = MsgBox("Well done that is a pink paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgred_Click()
+responce = MsgBox("Well done that is a red paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgblack_Click()
+responce = MsgBox("Well done that is a black paint blob", vbOKOnly)
+End Sub
+
+Private Sub imgyellow_Click()
+responce = MsgBox("Well done that is a yellow paint blob", vbOKOnly)
+End Sub
